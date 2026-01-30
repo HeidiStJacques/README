@@ -4,6 +4,9 @@ I’m a **full-stack developer** and founder building software that has to work 
 
 Right now, I’m building **SocialBright** — a secure, multi-tenant case management platform designed for social service agencies. That means production code, real users, real data, and zero tolerance for shortcuts.
 
+My current focus is frontend and platform foundations, with backend systems built to support real production needs.
+
+
 ## 🧠 What I work with
 - Frontend: React, Tailwind CSS
 - Backend: Python, Django, FastAPI
